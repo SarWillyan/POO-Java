@@ -1,0 +1,1 @@
+Nesta pasta temos um exemplo de Classes aninhadas estaticas

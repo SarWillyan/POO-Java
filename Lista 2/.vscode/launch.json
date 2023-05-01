@@ -1,0 +1,84 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex_13_FILA.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch calendario",
+            "request": "launch",
+            "mainClass": "Ex_1.calendario",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex_10_REDE_SOCIAL.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "Ex_11_FATURA.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(2)",
+            "request": "launch",
+            "mainClass": "Ex_12_FILA.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(3)",
+            "request": "launch",
+            "mainClass": "Ex_5_POINT_IMUTAVEL.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(4)",
+            "request": "launch",
+            "mainClass": "Ex_6_POINT_MUTAVEL.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(5)",
+            "request": "launch",
+            "mainClass": "Ex_7_CARRO.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(6)",
+            "request": "launch",
+            "mainClass": "Ex_8_CALENDARIO_ESTATICO.src.Main",
+            "projectName": "Lista 2_9812379e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "Ex_9_HelloWorld.HelloWorld",
+            "projectName": "Lista 2_9812379e"
+        }
+    ]
+}
